@@ -5,7 +5,8 @@ package cortext.trainer;
  * User: knhjp
  * Date: Mar 6, 2010
  * Time: 8:12:00 AM
- * To change this template use File | Settings | File Templates.
+ * This is the implementation of Pair -- which is used for updating
+ * the database based on observations
  */
 public class PairImpl {
 }
