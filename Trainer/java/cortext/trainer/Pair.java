@@ -8,4 +8,5 @@ package cortext.trainer;
  * This is a simple pair observation made to update database
  */
 public interface Pair {
+    void addSample(int token1, int token2);
 }
