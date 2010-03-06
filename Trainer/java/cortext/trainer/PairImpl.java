@@ -8,5 +8,8 @@ package cortext.trainer;
  * This is the implementation of Pair -- which is used for updating
  * the database based on observations
  */
-public class PairImpl {
+public class PairImpl implements Pair {
+    @Override public void addSample(int token1, int token2) {
+
+    }
 }
